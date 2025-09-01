@@ -17,8 +17,12 @@ p {
 }
 
 .site-header {
-  background-color: blue; 
+  background-color: rgb(15, 15, 103); 
   text-align: right;
+}
+
+.title {
+  text-align: center;
 }
 
 
